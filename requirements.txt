@@ -1,0 +1,4 @@
+torch
+rdkit-pypi
+transformers
+pandas
